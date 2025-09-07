@@ -10,18 +10,13 @@ NOT a full-stack web dev & graphic designer, always trying to start multiple pro
 ---
 
 ## About Me
-- Founder & builder of random shit 
-- Playing around with design + code 
-- Always learning, always shipping 
+- I life in fl
+- i like to create
+- math can eat shit
 
 ---
 
-##  Tools I Use
-- **Languages**: JavaScript, TypeScript, Python, HTML/CSS, PHP, LUA (so peak)
-- **Frameworks**: React, Node.js, Express, Next.js, Flask, Tailwind, Unity, UE
-- **Other**: Figma, Photoshop, Git, Canva, Varsity Edrsign
-
----
-
-###  Let’s Connect
-Find me here on GitHub or just shoot me a DM somewhere 
+## currently working on....
+- some roblox game i havent named
+- blook engine
+- changing my github bcs someone by the name of zumi is bullying me 😞
