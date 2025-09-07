@@ -1,6 +1,6 @@
 # Hey, I'm Lemon 👋
 
-NOT a full-stack web dev & graphic designer, always cooking up random projects 
+NOT a full-stack web dev & graphic designer, always trying to start multiple projects at once the never completing them cuz im a bitch
 
 ---
 
