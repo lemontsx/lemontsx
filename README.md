@@ -16,12 +16,12 @@ Full-stack web dev & graphic designer, always cooking up random projects
 
 ---
 
-## 🛠️ Tools I Use
-- **Languages**: JavaScript, TypeScript, Python, HTML/CSS  
-- **Frameworks**: React, Node.js, Express  
-- **Other**: Figma, Photoshop, Git  
+##  Tools I Use
+- **Languages**: JavaScript, TypeScript, Python, HTML/CSS, PHP, LUA (so peak)
+- **Frameworks**: React, Node.js, Express, Next.js, Flask, Tailwind, Unity, UE
+- **Other**: Figma, Photoshop, Git, Canva, Varsity Edrsign
 
 ---
 
-### 💬 Let’s Connect
+###  Let’s Connect
 Find me here on GitHub or just shoot me a DM somewhere 
